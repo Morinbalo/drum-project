@@ -1,0 +1,103 @@
+header{
+    font-size: 50px;
+    text-align: center;
+    color:black;
+    background-color: teal;
+}
+.image1{
+    width:  88px;
+    height: 70px;
+}
+body{
+    background-color: teal;
+}
+.col-one{
+    width: 120px;
+    height: 120px;
+    background-image: url('bg_image/jh.avif');
+    background-position: center;
+    background-size: cover;
+    border: 5px solid cornsilk; 
+    border-radius: 15px;
+
+    
+}
+.col-two{
+    width: 120px;
+    height: 120px;
+    background-image: url('bg_image/hg.avif');
+    background-position: center;
+    background-size: cover;
+    margin-left: 50px;
+    border: 5px solid cornsilk; 
+    border-radius: 15px;
+}
+.col-three{
+    width: 120px;
+    height: 120px;
+    background-image: url('bg_image/kh.avif');
+    background-position: center;
+    background-size: cover;
+    margin-left: 50px;
+    border: 5px solid cornsilk; 
+    border-radius: 15px;
+}
+
+.col-four{
+    width: 120px;
+    height: 120px;
+    background-image: url('bg_image/gh.avif');
+    background-position: center;
+    background-size: cover;
+    margin-left: 50px;
+    border: 5px solid cornsilk; 
+    border-radius: 15px;
+
+} 
+
+.col-five{
+    width: 120px;
+    height: 120px;
+    background-image: url('bg_image/kh.avif');
+    background-position: center;
+    background-size: cover;
+    margin-left: 50px;
+    border: 5px solid cornsilk; 
+    border-radius: 15px;
+}
+.col-six{
+    width: 120px;
+    height: 120px;
+    background-image: url("bg_image/bg.avif");
+    background-position: center;
+    background-size: cover;
+    margin-left: 50px;
+    margin-left: 50px;
+    border: 5px solid cornsilk; 
+    border-radius: 15px;
+}
+.col-seven{
+    width: 120px;
+    height: 120px;
+    background-image: url('bg_image/des.avif');
+    background-position: center;
+    background-size: cover;
+    margin-left: 50px;
+    border: 5px solid cornsilk; 
+    border-radius: 15px;
+
+}
+.par-con{
+    display: flex;
+    
+    box-sizing: border-box;
+
+}
+h2{
+    
+    text-align: center;
+    color: yellow;
+    font-size: 50px;
+    padding-top: -20px;
+ 
+}
